@@ -1,0 +1,22 @@
+package br.com.springboot.curso_jdev;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+//NOTAÇÃO QUE VAI STARTA todo O PROJETO
+@SpringBootApplication
+public class Application {
+	
+    public static void main(String[] args) {
+    	
+        SpringApplication.run(Application.class, args); //linha principal que roda o projeto springboot
+    }
+    
+    
+    
+    
+    
+    
+    
+}
