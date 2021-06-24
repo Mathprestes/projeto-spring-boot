@@ -1,0 +1,21 @@
+html {
+	margin-left: 5%;
+	margin-top: 10%;
+}
+
+.inp0 {
+	width: 4%;
+}
+
+.inp1 {
+	width: 20%;
+}
+
+.inp2 {
+	width: 8%;
+}
+
+.tabela {
+	height: 300px;
+	overflow: scroll;
+}
